@@ -13,10 +13,10 @@ return (
       <div className="container">
           <div className="left-section">
               <div className="footer-logo">
-              <Image src={Kinwithkevin} alt=""/>
+              <h2>Insert Logo Here</h2>
               </div>
               <p>
-                  Kevin is committed to providing the best form of care for your recovery and ensure he saves you time by being accessible to you at the community center gym or at home.
+                  We are committed to providing the best form of care for your recovery and ensure he saves you time by being accessible to you at the community center gym or at home.
               </p>
           </div>
           <div className="right-section">

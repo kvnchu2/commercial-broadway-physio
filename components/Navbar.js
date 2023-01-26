@@ -21,7 +21,7 @@ const Navbar = () => {
           <Link href={"/"}>
             <a>
               <div className="logo">
-                <Image src={Kinwithkevin} alt="kinesiologywithkevin"/>
+                <h2>Insert Logo Here</h2>
               </div>
             </a>
           </Link>

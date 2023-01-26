@@ -20,6 +20,7 @@ import Acupuncture from '../public/images/acupuncture.jpg';
 import ElderCare from '../public/images/elder-care.jpg';
 import KinesioTaping from '../public/images/kinesio-taping.jpg';
 import Physiotherapy from '../public/images/physiotherapy.jpg';
+import Cupping from '../public/images/cupping.jpg';
 
 
 
@@ -33,7 +34,9 @@ export default function Home() {
               <div className="heroText">
                   <h1 id="home-h">Empowering you through movement</h1>
                   <p>
-                      Offering 1-on-1 exercise programs designed to give you a head start on recovery from injury or pain. Try Kinesiology training for performance and health.
+                    Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor. Viverra magna
+                    pharetra rhoncus, nec sed ullamcorper lectus et. Auctor velit diam fermentum consequat. Feugiat viverra massa
+                    urna, volutpat orci imperdiet eget eget.
                   </p>
                   <div className="buttons">
                       
@@ -97,7 +100,7 @@ export default function Home() {
         </div>
         <div className="content">
           <span className="topper">Who We Are</span>
-          <h2>Have you worked with a Kinesiologist yet?</h2>
+          <h2>Dictum dolor, nullam morbi sem in auctor?</h2>
           <div aria-hidden="true" className="decoration">
             <div className="decorationimage">
                 <Image src={Leaf} alt="" width="" height="" />
@@ -105,9 +108,9 @@ export default function Home() {
             <div className="line"></div>
           </div>
           <p>
-            Kinesiologists are university-educated health professionals that apply exercise and movement science to promote health and manage injury or illness.
-
-            <br></br><br></br>As a Kinesiologist with years of experience, I provide the highest quality personal training and exercise rehabilitation. Work with me to get the body you've dreamed of, or to get back to activities after an injury.
+            Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor. Viverra magna
+            pharetra rhoncus, nec sed ullamcorper lectus et. Auctor velit diam fermentum consequat. Feugiat viverra massa
+            urna, volutpat orci imperdiet eget eget.
 
             {/* Working with you, I will build a plan that will address rehabilitation exercise, basic strength training, stress management, lifestyle habits, and more. */}
           </p>
@@ -159,9 +162,9 @@ export default function Home() {
 
             <div className="services-table-item">
                 <div className="personaltraining-image">
-                    <Image src={PersonalTraining} layout="fill" objectFit="cover"></Image>
+                    <Image src={Cupping} layout="fill" objectFit="cover"></Image>
                 </div>
-                <h3>Hello</h3>
+                <h3>Cupping</h3>
                 <p>A physiotherapy service for those patients and insurers who are having trouble returning to their pre-injury levels of function or post-operative patients who want to return to their pre-operative activity levels.</p>
             </div>
             
@@ -183,11 +186,13 @@ export default function Home() {
                     </div>
                     
                     <p className="cs-item-p">
-                    I found Kevin to be an excellent teacher.  He was consistently supportive and encouraging. He recognized the difficulty that older persons have in establishing a new behaviour pattern and found opportunities to compliment me on incremental (sometimes pretty minimal) progress.
+                    Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor. Viverra magna
+          pharetra rhoncus, nec sed ullamcorper lectus et. Auctor velit diam fermentum consequat. Feugiat viverra massa
+          urna, volutpat orci imperdiet eget eget.
                     </p>
                     <span className="cs-reviewer">
-                        Dr. Carol Herbert
-                        <span className="cs-desc">Family Physician</span>
+                        Jon Doe
+                        <span className="cs-desc">Homeowner</span>
                     </span>
                     <div className="cs-item-stars">
                         <Image aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/stars-yellow.svg" alt="stars" width="96" height="16" />
@@ -199,11 +204,13 @@ export default function Home() {
                         <Image className="cs-item-img" aria-hidden="true" loading="lazy" decoding="async" src={Profile} alt="profile picture" width="80" height="80"/>
                     </div>
                     <p className="cs-item-p">
-                        Coming soon!
+                    Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor. Viverra magna
+                    pharetra rhoncus, nec sed ullamcorper lectus et. Auctor velit diam fermentum consequat. Feugiat viverra massa
+                    urna, volutpat orci imperdiet eget eget.
                     </p>
                     <span className="cs-reviewer">
-                        
-                        <span className="cs-desc"> </span>
+                        Sally Urbank
+                        <span className="cs-desc">Banker</span>
                     </span>
                     <div className="cs-item-stars">
                         <Image aria-hidden="true" loading="lazy" decoding="async" src="https://csimg.nyc3.digitaloceanspaces.com/Reviews/stars-yellow.svg" alt="stars" width="96" height="16"/>
